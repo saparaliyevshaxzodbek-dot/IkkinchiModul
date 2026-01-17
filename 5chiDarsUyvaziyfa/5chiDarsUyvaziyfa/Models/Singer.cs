@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _4chiDarsUyvaziyfa.Models;
-
-public class Car : Factory
+namespace _5chiDarsUyvaziyfa.Models
 {
-
+    internal class Singer
+    {
+    }
 }

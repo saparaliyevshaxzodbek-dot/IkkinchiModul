@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _4chiDarsUyvaziyfa.Models;
 
-public class HeavyCar : AirCar
+public class HeavyCar : Factory
 {
     public HeavyCar()
     {
