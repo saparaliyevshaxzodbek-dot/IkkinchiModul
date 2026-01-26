@@ -1,6 +1,6 @@
-﻿namespace _9chiDarsUyvaziyfa.Services
+﻿namespace _9chiDarsUyvaziyfa.Services;
+
+public interface IPayService
 {
-    public interface IPayService
-    {
-    }
+    public void GetPay();
 }

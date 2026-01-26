@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _9chiDarsUyvaziyfa.Services
+namespace _9chiDarsUyvaziyfa.Services;
+
+public class PayanetService : IPayService
 {
-    internal class PayanetService
+    public void GetPay()
     {
+        Console.WriteLine("Tolaov Payanet orqali Amalga oshirildi");    
     }
 }
